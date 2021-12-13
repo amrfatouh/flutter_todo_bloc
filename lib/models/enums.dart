@@ -1,0 +1,1 @@
+enum Filter { all, completed, inProgress }
